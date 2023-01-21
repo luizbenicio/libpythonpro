@@ -2,4 +2,13 @@ flake8==6.0.0
 mccabe==0.7.0
 pycodestyle==2.10.0
 pyflakes==3.0.1
+
+#Deps do Pytest
+pytest
+iniconfig
+attrs>=19.2.0
+packaging
+tomli>=1.0.0
+pluggy<2.0,>=0.12
+exceptiongroup>=1.0.0rc8
 -r requirements.txt
