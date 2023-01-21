@@ -11,4 +11,7 @@ packaging
 tomli>=1.0.0
 pluggy<2.0,>=0.12
 exceptiongroup>=1.0.0rc8
+pytest-cov==4.0.0
+coverage==7.0.5
+
 -r requirements.txt
